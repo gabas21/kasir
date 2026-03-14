@@ -1,0 +1,22 @@
+{
+  "name": "Elite Cafe POS",
+  "short_name": "Elite Cafe",
+  "description": "Aplikasi Point of Sale untuk Elite Cafe",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#755833",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/images/gemini-svg.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/images/gemini-svg.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
